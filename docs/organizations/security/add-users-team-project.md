@@ -19,7 +19,7 @@ ms.date: 07/27/2018
 
 In this quickstart, you learn how to add users to a project or specific team. For anyone to access a project, they must be added to one of the default security groups or a custom group. Usually you add them to the Contributors group. For a quick look at what permissions are assigned to the default groups, see [Permissions and access](permissions-access.md).
 
-The easiest way to add a number of users to a project is to add groups defined in [Azure Active Directory (Azure AD) or Active Directory (AD)](setup-ad-aad.md).
+The easiest way to add a number of users to a project is to add groups defined in [Azure Active Directory (Azure AD)](setup-ad-aad.md).
 
 > [!IMPORTANT]
 > If you're adding users to an Azure DevOps organization and you don't use Azure AD, then you need to [add their "personal" Microsoft accounts to your account or project](../../user-guide/sign-up-invite-teammates.md#invite-others). After you've added them to one project, you can add them to additional projects using the procedures provided in this topic.
